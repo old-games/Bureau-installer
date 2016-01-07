@@ -1,0 +1,1 @@
+Remove #define ALLEGRO_USE_CONSOLE from dwgra.cpp for no-console!
